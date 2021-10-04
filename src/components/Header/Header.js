@@ -17,7 +17,8 @@ const Header = () => {
 
 <Navbar className='bg-color' expand="lg">
   <Container fluid>
-    <div className='brand'><Navbar.Brand href="/" >Learn With Anik Khan</Navbar.Brand></div>
+  <Nav.Link><NavLink to="/home" className='brand'>Learn 
+  With Anik Khan</NavLink></Nav.Link>
     
     <Navbar.Toggle aria-controls="navbarScroll" />
     <Navbar.Collapse id="navbarScroll">
