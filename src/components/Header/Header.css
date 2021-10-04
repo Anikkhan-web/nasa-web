@@ -1,0 +1,21 @@
+.custom{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: larger;
+
+}
+.custom:hover{
+   
+    color: tomato;
+    
+}
+.bg-color{
+    background-color: rgb(83, 83, 202);
+    
+}
+.brand{
+    font-size: x-large;
+    color: whitesmoke;
+    
+
+}
